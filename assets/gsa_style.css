@@ -1,0 +1,192 @@
+Body {
+    background: url(aosgsa_bkgd.gif);
+    font: 80% arial, helvetica, sans-serif;
+}
+
+#container {
+    position: relative;
+    width: 650px;
+    border: solid #262638;
+    border-width: 8px 4px;
+    margin: auto;
+    background-color: #ccddee;
+    color: #234;
+    text-align: center;
+}
+
+#info {
+    text-align: left;
+    font-size: 1.1em;
+    border: solid #234;
+    background-image: url(aosgsa_txtbkgd.gif);
+    background-repeat: no-repeat;
+    border-width: 0  0 1px 0;
+}
+
+a.nav {
+    display: block;
+    text-decoration: none;
+    font-weight: bold;
+    font-variant: small-caps;
+    letter-spacing: .25em;
+    word-spacing: 1em;
+    background-color: #262638;
+    color: #d8e5f1;
+    font-size: 1em;
+}
+
+a.nav:hover {
+    background-color: #262638;
+    color: #89a;
+}
+
+table.nav {
+    background-color: #262638;
+    border: solid #012;
+    border-width: 1px 0;
+}
+
+a.info { 
+    text-decoration: none;  
+    color: #012;
+    font-size: 1.2em;
+}
+
+a.info:hover {
+    color: #456;
+}
+
+iframe.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.amp-resource{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+}
+
+.homepage-image-center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}  
+
+p.homepage-head{
+  font-family: monospace;
+  font-size: larger;
+}
+
+p.homepage-text{
+  padding: 20px 100px 20px 100px;
+}
+
+table.amp-table{
+  margin-left: 100px;
+  width: 80%;
+}
+/**********************************************************************/
+
+.gsa-dropbtn {
+    background-color: white;
+    font-family: "Verlag", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    font-size: .925rem;
+    font-weight: 800;
+    line-height: 1.25;
+    border-bottom: 0.2rem solid transparent;
+    padding: 4px 0 1px;
+    padding: .3rem 0 .1rem;
+    margin-bottom: 12px;
+    margin-bottom: .8rem;
+    margin-top: 12px;
+    margin-top: .8rem;
+    border-bottom: 3px solid transparent;
+    border-bottom: .2rem solid transparent; 
+  }
+  
+
+  /* The container <div> - needed to position the dropdown content */
+  .gsa-dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    left: 0;
+    width: 180px;
+    z-index: 99999;
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-content a:hover {
+      background-color: white;
+    }
+  
+  /* Show the dropdown menu on hover */
+  .gsa-dropdown:hover .dropdown-content{
+      display: block;
+    }
+  
+  .uw-media-object {
+    max-width: 140px;
+    /* height: 210px; */
+  }
+  
+  ul.no-bullets{
+    list-style-type: none; 
+  }
+
+  h2.resource-cat{
+    font-size: 19px;
+    font-variant: normal;
+  }
+
+  .resource-links{
+    font-size: 16px;  
+    font-family: "Verlag", "Helvetica Neue", Helvetica,Arial,sans-serif;
+    line-height: 18px;
+    margin-left: -20px;
+  }
+  .resource-li{
+    margin: -1em 0em 1em 0em;
+  }
+
+  .resource-li-des{
+    margin: -15px 0em 1em 0em;
+  }
+
+  .linksdes{
+    font-size: 16px;  
+    font-family: "Verlag", "Helvetica Neue", Helvetica,Arial,sans-serif;
+    line-height: 18px;
+    margin-left: -20px;
+  }
+
+  .linksdes-li{
+    font-size: 16px;  
+    font-family: "Verlag", "Helvetica Neue", Helvetica,Arial,sans-serif;
+    line-height: 18px;
+  }
+
+  uw-media-object.img{
+    max-width: 100%;
+    height: auto;
+  }
+  /* Change the background color of the dropdown button when the dropdown content is shown */
+    /*.dropdown:hover .dropbtn {background-color: #3e8e41;}*/

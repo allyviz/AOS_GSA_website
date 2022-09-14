@@ -1,0 +1,131 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+<head>
+
+<title>UW-Madison's AOS-Graduate Student Association</title>
+
+
+<style type="text/css">
+   Body {
+     background: url(../aosgsa_bkgd.gif);
+     font: 80% arial, helvetica, sans-serif;
+    }
+   #container {
+     position: relative;
+     width: 650px;
+     border: solid #262638;
+     border-width: 8px 4px;
+     margin: auto;
+     background-color: #ccddee;
+     color: #234;
+     text-align: center;
+    }
+   #info {
+     text-align: left;
+     font-size: 1.1em;
+     border: solid #234;
+     background-image: url(../../aosgsa_txtbkgd.gif);
+     background-repeat: no-repeat;
+     border-width: 0  0 1px 0;
+    }
+   a.nav {
+     display: block;
+     text-decoration: none;
+     font-weight: bold;
+     font-variant: small-caps;
+     letter-spacing: .25em;
+     word-spacing: 1em;
+     background-color: #262638;
+     color: #d8e5f1;
+     font-size: 1em;
+     
+    }
+   a.nav:hover {
+     background-color: #262638;
+     color: #89a;
+    }
+   table.nav {
+     background-color: #262638;
+     border: solid #012;
+     border-width: 1px 0;
+    }
+   a.info { 
+     text-decoration: none;  
+     color: #012;
+     font-size: 1.2em;
+    }
+   a.info:hover {
+     color: #456;
+    }
+   
+</style>
+</head>
+
+<body>
+  <div id="container">
+   <a href=http://www.aos.wisc.edu/~gsa><img src="../aosgsa.gif" alt="AOS-GSA.gif"></a>
+
+   <table class="nav" width="100%">
+      <tr>
+        <td width="25%" align="center"><a class="nav" href="../index.html">Home</a></td>
+        <td width="25%" align="center"><a class="nav" href="mins.html">Minutes</a></td>
+        <td width="25%" align="center"><a class="nav" href="../socinfo.html">Social Info</a></td>
+        <td width="25%" align="center"><a class="nav" href="../comm.html">Committees</a></td>
+	<td width="25%" align="center"><a class="nav" href="../const.html">Constitution</a></td>
+        <td width="25%" align="center"><a class="nav" href="../outreach.html">Outreach</a><td>
+
+	</tr>
+
+   </table>
+   <br/>
+   <div id="info" width="100%">
+    <br/>
+    <table> 
+      <tr><td width="3%"> </td>
+          <td width="35%"> <strong><big>UW-Madison AOS<br/>
+                                     <big><big><big>G</big>raduate<br/>
+                                               <big>S</big>tudent<br/>
+                                               <big>A</big>ssociation<br/>
+                           </big></big></big></strong> <br/><br/><br/></td>
+	 
+          <td width="35%" align="center"><big><big><strong>Minutes</strong></big></big><br/>
+
+             <br/>
+
+             <li>Quorum not reached April 2013.  No minutes taken.</li><BR>
+             <li><a href="13Mar2013_GSAMinutes.pdf">March 13th, 2013<a/></li><BR>
+             <li><a href="20Feb2013_GSAMinutes.pdf">February 20th, 2013<a/></li><BR>
+             <li><a href="30Jan2013_GSAMinutes.pdf">January 30th, 2013<a/></li><BR>
+             <li>Quorum not reached October-December, 2012.  No minutes taken.</li><BR>
+             <li><a href="19Sept2012_GSAMinutes.pdf">September 19, 2012<a/></li><BR>
+             <li><a href="2011-2012/">2011-2012 Minutes<a/></li><BR>
+	     <li><a href="2010-2011/">2010-2011 Minutes<a/></li><BR>
+	     <li><a href="2009-2010/">2009-2010 Minutes<a/></li><BR>
+             <li><a href="2008-2009/">2008-2009 Minutes<a/></li><BR>
+             <li><a href="2007-2008/">2007-2008 Minutes<a/></li><BR>
+   
+             <br/><br/>
+         </td>
+	<td width="35%" align="center"><big><big><strong>2009 Student - Faculty Summit</strong></big></big><br/>
+
+	    <br/>
+	    <li><a href="summit_minutes.doc">Minutes from Summit</a></li><BR>
+	    <li><a href="Summit_Attendance.doc">Attendance from Summit</a></li><BR>
+	    <li><a href="Proposals_for_Summit.doc">Summit Proposals</a></li><BR>
+	     <br/><br/>
+	</td>
+      </tr>
+
+      <tr><td></td>
+         <td>
+           
+         </td>  
+   </table>   
+   <br/><br/>
+   </div>   
+ </div>
+</body>
+</html>
+
