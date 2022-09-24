@@ -68,12 +68,65 @@ iframe.center{
     margin-bottom: 20px;
 }
 
-.homepage-image-center{
+.scrolling-wrapper{
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+}
+
+/* .homepage-image-center{
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
-}  
+}  */
+
+.gallery-container {
+  position: relative;
+}
+
+ /* Hide the images by default */
+.mySlides {
+  width: 80%;
+  margin-left: auto ;
+  margin-right: auto;
+  display: block;
+}
+
+/* Add a pointer when hovering over the thumbnail images */
+.cursor {
+  cursor: pointer;
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  left: 10%;
+  width: auto;
+  padding: 16px;
+  margin-top: -50px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  left: 85.7%;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
 
 p.homepage-head{
   font-family: monospace;
