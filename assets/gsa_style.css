@@ -181,6 +181,7 @@ table.amp-table{
   /* Links inside the dropdown */
   .dropdown-content a {
     color: black;
+    padding: 12px;
     width: 100%;
     text-decoration: none;
     display: block;
@@ -189,6 +190,7 @@ table.amp-table{
   /* Change color of dropdown links on hover */
   .dropdown-content a:hover {
       background-color: white;
+
     }
   
   /* Show the dropdown menu on hover */
